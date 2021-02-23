@@ -17,4 +17,4 @@ Linux Ubuntu
 Google Chrome
 Версия 81.0.4044.129, (64 бит)
 
-![alt text](../my_examples/screenshots/HW-11-2.png "Описание будет тут")
+![alt text](.idea/screenshots/HW-11-2.png "Описание будет тут")

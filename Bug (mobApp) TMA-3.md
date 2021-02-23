@@ -16,4 +16,4 @@
 Окружение
 Xiaomi Mi 9T, Android 10 QKQ1, MIUI Global 12.0.1
 
-![alt text](../my_examples/screenshots/TMA-3.png "Описание")
+![alt text](.idea/screenshots/TMA-3.png "Описание")
